@@ -14,14 +14,14 @@ CORS(app)  # Enable CORS for frontend
 
 # Check if model exists
 if not os.path.exists('./model.p'):
-    print("❌ Error: model.p not found. Run train_classifier.py first.")
+    print(" Error: model.p not found. Run train_classifier.py first.")
     exit()
 
 # Load trained model
-print("📂 Loading trained model...")
+print(" Loading trained model...")
 model_dict = pickle.load(open('./model.p', 'rb'))
 model = model_dict['model']
-print("✅ Model loaded successfully!")
+print(" Model loaded successfully!")
 
 # Initialize MediaPipe
 mp_hands = mp.solutions.hands
