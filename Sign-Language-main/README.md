@@ -1,6 +1,6 @@
 # Sign Language Detection Web Application
 
-A real-time American Sign Language (ASL) detection system with a modern web frontend and Flask backend API.
+A real-time American Sign Language (ASL) detection system .
 
 ## Features
 
