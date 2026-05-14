@@ -17,19 +17,19 @@ A real-time American Sign Language (ASL) detection system .
 SIGN-LANGUAGE-DETECTION/
 ├── app.py                 # Flask backend API server
 ├── requirements.txt       # Python dependencies
-├── model.p               # Trained model (must exist)
+├── model.p               # Trained model 
 ├── inference_classifier.py  # Original CLI inference script
 ├── train_classifier.py   # Model training script
 ├── frontend/
-│   ├── package.json      # Node.js dependencies
-│   ├── vite.config.js    # Vite configuration
-│   ├── index.html        # HTML entry point
+│   ├── package.json      
+│   ├── vite.config.js    
+│   ├── index.html        
 │   └── src/
-│       ├── main.jsx      # React entry point
-│       ├── App.jsx       # Main React component
-│       ├── App.css       # Styles
-│       └── index.css     # Global styles
-└── README.md             # This file
+│       ├── main.jsx      
+│       ├── App.jsx       
+│       ├── App.css      
+│       └── index.css     
+└── README.md             
 ```
 
 ## Prerequisites
