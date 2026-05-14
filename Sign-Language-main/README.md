@@ -4,12 +4,12 @@ A real-time American Sign Language (ASL) detection system with a modern web fron
 
 ## Features
 
-- 🤟 Real-time sign language detection using webcam
-- 🎯 Detects letters A-Z and "hello"
-- 📝 Sentence formation by holding signs
-- 🎨 Modern, responsive web interface
-- 🔄 Real-time prediction updates
-- 📊 Confidence scores for predictions
+-  Real-time sign language detection using webcam
+-  Detects letters A-Z and "hello"
+-  Sentence formation by holding signs
+-  Modern, responsive web interface
+-  Real-time prediction updates
+-  Confidence scores for predictions
 
 ## Project Structure
 
